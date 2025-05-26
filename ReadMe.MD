@@ -1,4 +1,4 @@
-<img src="app/images/appicon.png" alt="Audible" width="72">
+<img src="appicon.png" alt="Audible" width="72">
 
 ## Audible
 
